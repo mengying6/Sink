@@ -2,6 +2,7 @@
 
 **A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.**
 
+
 <a href="https://trendshift.io/repositories/10421" target="_blank">
   <img
     src="https://trendshift.io/api/badge/repositories/10421"
